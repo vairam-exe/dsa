@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f61c3f3-7824-4481-9a70-c95b1804d1c4" name="Changes" comment="" />
+    <list default="true" id="2f61c3f3-7824-4481-9a70-c95b1804d1c4" name="Changes" comment="commit1">
+      <change afterPath="$PROJECT_DIR$/methods/src/arm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods/src/pal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/src/votingage.java" beforeDir="false" afterPath="$PROJECT_DIR$/methods/src/votingage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,16 +33,16 @@
     "onboarding.tips.debug.path": "/Users/vairam.exe/IdeaProjects/kunal/methods/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.oddoreven">
-    <configuration name="add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="add" />
+  <component name="RunManager" selected="Application.arm">
+    <configuration name="arm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arm" />
       <module name="methods" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="minmax" />
+    <configuration name="fact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fact" />
       <module name="methods" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeornot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primeornot" />
+    <configuration name="pal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pal" />
       <module name="methods" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swaping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swaping" />
+    <configuration name="votingage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="votingage" />
       <module name="methods" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,16 +71,28 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arm" />
+        <item itemvalue="Application.pal" />
+        <item itemvalue="Application.fact" />
+        <item itemvalue="Application.votingage" />
         <item itemvalue="Application.oddoreven" />
-        <item itemvalue="Application.minmax" />
-        <item itemvalue="Application.swaping" />
-        <item itemvalue="Application.primeornot" />
-        <item itemvalue="Application.add" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1720200461984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720200461984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
